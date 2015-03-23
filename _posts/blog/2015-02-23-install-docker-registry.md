@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安装docker-registry
-description: 安装docker-registry的步骤和使用方法ß
+description: 安装docker-registry的步骤和使用方法
 category: blog
 tags: docker
 ---
