@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安装docker-registry
-description: 存在感对于每个人的生活有多么的重要，可能平时并不是太关注，其实他就是生活的全部
+description: 安装docker-registry的步骤和使用方法ß
 category: blog
 tags: docker
 ---
